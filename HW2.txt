@@ -1,0 +1,8 @@
+This is not a real homework assignment.
+
+How much wood would a woodchuck chuck if a wood chukc could chuck wood?
+
+I don't know, but I bet there is an R program to find out.
+
+I've been forking my brains out!  Fork me!
+
